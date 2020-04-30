@@ -1,9 +1,12 @@
 # Lesekreis
 
+### Next
+
+Joachim Meyerhoff: Amerika. Alle Toten fliegen hoch. Nr. 1
+
 ### Gelesene Bücher
 
 <ol>
-  <li value=18>Joachim Meyerhoff: Amerika. Alle Toten fliegen hoch. Nr. 1</li>
   <li value=17>Joseph Roth: Hiob</li>
   <li value=16>Albert Camus: Der Fall</li>
   <li value=15>Marlen Haushofer: Die Wand</li>
