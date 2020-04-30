@@ -1,6 +1,6 @@
 ### Next
 
-Joachim Meyerhoff: Amerika. Alle Toten fliegen hoch. Nr. 1
+Joachim Meyerhoff: Amerika. Alle Toten fliegen hoch Nr. 1
 
 ### Gelesene Bücher
 
