@@ -1,5 +1,3 @@
-# Lesekreis
-
 ### Next
 
 Joachim Meyerhoff: Amerika. Alle Toten fliegen hoch. Nr. 1
