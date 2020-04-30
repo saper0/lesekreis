@@ -3,30 +3,22 @@
 ### Gelesene Bücher
 
 <ol>
-  <li>List item one</li>
-  <li>List item two</li>
-  <li>List item three</li>
-  <li>List item four</li>
-  <li>List item five</li>
-</ol>
-
-<ol reversed>
-<li> Joachim Meyerhoff: Amerika. Alle Toten fliegen hoch. Nr. 1</li>
-<li> Joseph Roth: Hiob</li>
-<li>0. Albert Camus: Der Fall
-0. Marlen Haushofer: Die Wand
-0. Platon: Apologie des Sokrates
-0. Paulus Hochgatterer: Der Tag, an dem mein Großvater ein Held war
-0. Alexander von Humbold: Ansichten der Natur
-0. Henry David Thoreau: Walden
-0. Hermann Hesse: Siddhartha
-0. Max Frisch: Homo Faber
-0. Arthur Schnitzler: Leutnant Gustl
-0. John Strelecky: Das Café am Rande der Welt
-0. Ödön von Horváth: Jugend ohne Gott
-0. Stefan Zweig: Die Welt von Gestern
-0. Isaac Asimov: The End of Eternity
-0. Samuel Beckett: Warten auf Godot (+ Theater Endspiel)
-0. Albert Camus: Der Fremde
-0. Hermann Hesse: Steppenwolf</li>
+  <li value=18>Joachim Meyerhoff: Amerika. Alle Toten fliegen hoch. Nr. 1</li>
+  <li value=17>Joseph Roth: Hiob</li>
+  <li value=16>Albert Camus: Der Fall</li>
+  <li value=15>Marlen Haushofer: Die Wand</li>
+  <li value=14>Platon: Apologie des Sokrates</li>
+  <li value=13>Paulus Hochgatterer: Der Tag, an dem mein Großvater ein Held war</li>
+  <li value=12>Alexander von Humbold: Ansichten der Natur</li>
+  <li value=11>Henry David Thoreau: Walden</li>
+  <li value=10>Hermann Hesse: Siddhartha</li>
+  <li value=9>Max Frisch: Homo Faber</li>
+  <li value=8>Arthur Schnitzler: Leutnant Gustl</li>
+  <li value=7>John Strelecky: Das Café am Rande der Welt</li>
+  <li value=6>Ödön von Horváth: Jugend ohne Gott</li>
+  <li value=5>Stefan Zweig: Die Welt von Gestern</li>
+  <li value=4>Isaac Asimov: The End of Eternity</li>
+  <li value=3>Samuel Beckett: Warten auf Godot (+ Theater Endspiel)</li>
+  <li value=2>Albert Camus: Der Fremde</li>
+  <li value=1>Hermann Hesse: Steppenwolf</li>
 </ol>
