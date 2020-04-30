@@ -2,9 +2,18 @@
 
 ### Gelesene Bücher
 
-0. Joachim Meyerhoff: Amerika. Alle Toten fliegen hoch. Nr. 1
-0. Joseph Roth: Hiob
-0. Albert Camus: Der Fall
+<ol>
+  <li>List item one</li>
+  <li>List item two</li>
+  <li>List item three</li>
+  <li>List item four</li>
+  <li>List item five</li>
+</ol>
+
+<ol reversed>
+<li> Joachim Meyerhoff: Amerika. Alle Toten fliegen hoch. Nr. 1</li>
+<li> Joseph Roth: Hiob</li>
+<li>0. Albert Camus: Der Fall
 0. Marlen Haushofer: Die Wand
 0. Platon: Apologie des Sokrates
 0. Paulus Hochgatterer: Der Tag, an dem mein Großvater ein Held war
@@ -19,5 +28,5 @@
 0. Isaac Asimov: The End of Eternity
 0. Samuel Beckett: Warten auf Godot (+ Theater Endspiel)
 0. Albert Camus: Der Fremde
-0. Hermann Hesse: Steppenwolf
-{: reversed="reversed"}
+0. Hermann Hesse: Steppenwolf</li>
+</ol>
