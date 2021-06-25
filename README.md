@@ -1,6 +1,6 @@
 ### Next
 
-Joachim Meyerhoff: Amerika. Alle Toten fliegen hoch. Nr. 1
+Miguel de Cervantes: Don Quijote
 
 ### Gelesene Bücher
 
@@ -21,3 +21,4 @@ Joachim Meyerhoff: Amerika. Alle Toten fliegen hoch. Nr. 1
 0. Marlen Haushofer: Die Wand
 0. Albert Camus: Der Fall
 0. Joseph Roth: Hiob
+0. George Orwell: Animal Farm
