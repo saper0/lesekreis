@@ -21,4 +21,5 @@ Miguel de Cervantes: Don Quijote
 0. Marlen Haushofer: Die Wand
 0. Albert Camus: Der Fall
 0. Joseph Roth: Hiob
+0. Agota Kristof: Das große Heft
 0. George Orwell: Animal Farm
