@@ -19,7 +19,7 @@ Miguel de Cervantes: Don Quijote
 0. Paulus Hochgatterer: Der Tag, an dem mein Großvater ein Held war
 0. Platon: Apologie des Sokrates
 0. Marlen Haushofer: Die Wand
+0. Agota Kristof: Das große Heft
 0. Albert Camus: Der Fall
 0. Joseph Roth: Hiob
-0. Agota Kristof: Das große Heft
 0. George Orwell: Animal Farm
